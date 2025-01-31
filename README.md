@@ -1,12 +1,3 @@
-# Bipin Ghimire
-
-**Location:** Kathmandu, Nepal  
-**Email:** [bipin.ghimire692@gmail.com](mailto:bipin.ghimire692@gmail.com)  
-**Phone:** +977 9860015292  
-**LinkedIn:** [linkedin.com/in/bipin-ghimire-5587311b0](https://www.linkedin.com/in/bipin-ghimire-5587311b0)  
-
----
-
 ## About Me
 
 I am a **Data Engineer** and **Machine Learning Enthusiast** with expertise in data processing, cloud technologies, and programming. My passion lies in solving complex problems and leveraging technology to drive impactful insights. With a strong foundation in **Python**, **SQL**, and scalable data pipelines, I strive to continuously learn and innovate in the field of data science and engineering.
