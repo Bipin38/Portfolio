@@ -1,5 +1,7 @@
 title: Bipin Ghimire
 logo: assets/img/Bipin Ghimire.jpg
-description: Text here
-show_downloads: true
+description: 
+# show_downloads: true
 theme: jekyll-theme-minimal
+linkedin_url: "https://www.linkedin.com/in/your-linkedin-profile"
+github_url: "https://github.com/your-github-profile"
