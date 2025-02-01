@@ -2,6 +2,8 @@
 
 I am a **Data Engineer** and **Machine Learning Enthusiast** with expertise in data processing, cloud technologies, and programming. My passion lies in solving complex problems and leveraging technology to drive impactful insights. With a strong foundation in **Python**, **SQL**, and scalable data pipelines, I strive to continuously learn and innovate in the field of data science and engineering.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/bipin-ghimire-5587311b0/)) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipin.ghimire692@gmail.com)
+
 ---
 
 ## Education
@@ -40,7 +42,6 @@ I am a **Data Engineer** and **Machine Learning Enthusiast** with expertise in d
 ## Projects
 
 ### Face Recognition-Based Attendance System  
-**Project Link:** [GitHub Repository](https://github.com/Bipin38/Minor-Project)  
 - Developed a desktop application for face-based attendance management.  
 - Integrated **Haarcascade** for face detection and **LBPH algorithm** for face recognition.  
 
