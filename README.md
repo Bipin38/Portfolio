@@ -1,5 +1,3 @@
-# BIPIN GHIMIRE
-
 ## About Me
 
 I am a **Data Engineer** and **Machine Learning Enthusiast** with expertise in data processing, cloud technologies, and programming. My passion lies in solving complex problems and leveraging technology to drive impactful insights. With a strong foundation in **Python**, **SQL**, and scalable data pipelines, I strive to continuously learn and innovate in the field of data science and engineering.
